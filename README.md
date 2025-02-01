@@ -1,5 +1,4 @@
-## Hi there 👋
-
+Freshman at Bilkent. Interested in Computers.
 <!--
 **EmirZeybek/EmirZeybek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
